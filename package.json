@@ -1,0 +1,14 @@
+{
+    "id": "aws-console",
+    "name": "AWS Console",
+    "version": "1.0.0",
+    "description": "This is the unofficial Franz recipe for AWS Console",
+    "main": "index.js",
+    "author": "André Van Dal <andre.vandal@lenyeg.com.br>",
+    "license": "MIT",
+    "repository": "https://github.com/derevandal/aws-console-recipe",
+    "config": {
+      "serviceURL": "https://console.aws.amazon.com/"
+    }
+  }
+  
